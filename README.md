@@ -24,25 +24,9 @@ A small leetcode extension I built using the [WXT framework](https://wxt.dev/) t
 - **Backends**:
   - **LeetCode API**: Fetches user-specific data from LeetCode.
   - **BackendService**: Custom backend leveraging LangGraph AI agents for video suggestions and problem-solving assistance.
-- **Languages**: JavaScript/TypeScript (assumed based on WXT).
+- **Languages**: TypeScript (assumed based on WXT).
 - **UI**: Graphical components for submission visualization.
 
-## 🚀 Installation Guide
 
-Follow these steps to set up the project locally:
-
----
-
-### 1. **Clone the Repository**
-Clone the project and move into the directory:
-```bash
-git clone https://github.com/Manush-2005/Leetcode-Extension.git
-cd Leetcode-Extension
-cd leetcode Helper
-npm install
-cd ../leetcode_api
-npm install
-cd ../backendService
-pip install -r requirements.txt
 
 
